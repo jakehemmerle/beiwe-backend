@@ -1,3 +1,6 @@
+# THIS FILE MAY BE REMOVED FROM THE REPO AT ANY TIME, IT'S INCLUSION WAS NOT INTENTIONAL.
+# PLEASE MAKE BACKUPS OF THIS CONFIGURATION FILE.
+
 branch-defaults:
   master:
     environment: clinical
@@ -9,7 +12,7 @@ global:
   application_name: beiwe-application
   branch: null
   default_ec2_keyname: jake-conscious-insights
-  default_platform: Python 2.7
+  default_platform: 64bit Amazon Linux 2018.03 v2.9.4 running Python 3.6
   default_region: us-east-2
   include_git_submodules: true
   instance_profile: null

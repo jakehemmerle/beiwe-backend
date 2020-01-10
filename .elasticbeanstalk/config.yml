@@ -2,7 +2,7 @@
 # PLEASE MAKE BACKUPS OF THIS CONFIGURATION FILE.
 
 branch-defaults:
-  master:
+  clinical:
     environment: clinical
 environment-defaults:
   clinical:
